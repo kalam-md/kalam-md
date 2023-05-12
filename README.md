@@ -2,9 +2,8 @@
   
   - 🔭 I’m currently intern at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
   - 🌱 I’m currently about cloud computing and react js
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ Fun fact: I like traveling around the world
   
   #### 📫 How to reach me:
   
