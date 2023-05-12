@@ -1,8 +1,8 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   
   - 🔭 I’m currently intern at Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
-  - 🌱 I’m currently about cloud computing and react js
-  - 😄 Pronouns: He / Him
+  - 🌱 I’m currently learn about cloud computing and react js
+  - 😄 Pronouns: He / Him / Lam
   - ⚡ Fun fact: I like traveling around the world
   
   #### 📫 How to reach me:
