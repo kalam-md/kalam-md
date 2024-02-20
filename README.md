@@ -3,8 +3,8 @@
 
 
 ## 🚀 About Me
-Welcome, let me introduce myself, my name is Kalam Mahardhika. I am someone who is active in learning new technologies and is very open to opportunities to work in the field of software development.
-Now I am interning with Finplan.id as a Frontend Developer and Dibimbing.id as a Class Manager Frontend Web Development
+Welcome, let me introduce myself, my name is Kalam Mahardhika. I am someone who is active in learning new technologies and is very open to opportunities to work in the field of software engineering.
+I'am currently looking for new opportunities, my inbox alwas open. Whether you have question or just want to say hi, i'll try my best to get back to you.
 
 
 ## 🔗 Social Media
